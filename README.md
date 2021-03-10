@@ -31,7 +31,6 @@ Then, from a Python interpreter:
 ```python
 >>> from reverser import RevClient
 >>> rc = RevClient()
-[...
 >>> content = rc.rev_me('one')
 ```
 
