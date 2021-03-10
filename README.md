@@ -43,6 +43,6 @@ Version: 0.0.2
 Summary: Reverser for Python 3.6+
 Home-page: https://github.com/tactlabs/reverser.git
 Author: Raja CSP Raman
-Author-email: raja.csp@gmail.com
+Author-email: raja.r.csp@gmail.com
 ...
 ```
