@@ -29,7 +29,7 @@ Processing ./dist/reverser-0.0.7-py3-none-any.whl
 
 Then, from a Python interpreter:
 ```python
->>> from reverser.rclient import RevClient
+>>> from reverser import RevClient
 >>> rc = RevClient()
 [...
 >>> content = rc.rev_me('one')
