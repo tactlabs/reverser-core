@@ -3,12 +3,12 @@ import json
 import pprint
 from xml.dom import minidom
 
-from reverser.rclient import RevClient
+from reverser import RevClient
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description='Python3 Reverser Client')
+        description='Python3 Reverser')
     
     # Parse command line arguments
     r_client = RevClient()

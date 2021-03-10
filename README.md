@@ -1,4 +1,4 @@
-# Reverser Client
+# Reverser
 `reverser` is a Sample library that can be used as a module within your Python project.
 ## Roadmap
 - [x] Simple Reverser
@@ -40,7 +40,7 @@ To verify the location and installation of `reverser` package:
 $ pip show reverser
 Name: reverser
 Version: 0.0.2
-Summary: Reverser client for Python 3.6+
+Summary: Reverser for Python 3.6+
 Home-page: https://github.com/tactlabs/reverser.git
 Author: Raja CSP Raman
 Author-email: raja.csp@gmail.com

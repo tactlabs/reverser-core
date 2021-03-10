@@ -22,7 +22,7 @@ setup(
     version=get_version(),
     author='Raja CSP Raman',
     author_email='raja.r.csp@gmail.com',
-    description='Reverser client for Python 3.6+',
+    description='Reverser for Python 3.6+',
     long_description=long_description,
     long_description_content_type='test/markdown',
     url='https://github.com/tactlabs/reverser.git',
