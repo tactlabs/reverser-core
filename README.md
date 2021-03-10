@@ -1,5 +1,5 @@
 # Reverser Client
-`reverser` is a Sample Reverser client that can be used as a command line tool or as a module within your Python project.
+`reverser` is a Sample library that can be used as a module within your Python project.
 ## Roadmap
 - [x] Simple Reverser
 - [ ] Two
